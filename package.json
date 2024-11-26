@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "auth": "^0.0.1"
   }
 }
